@@ -1,0 +1,17 @@
+[2024-12-21 13:47:21] [main] INFO  Main - Начало скачек. Количество участников: 7
+[2024-12-21 13:47:41] [main] INFO  Main - Конец скачек. Победитель: Pegasus
+[2024-12-21 13:51:33] [main] INFO  Main - Начало скачек. Количество участников: 7
+[2024-12-21 13:51:53] [main] INFO  Main - Конец скачек. Победитель: Pegasus
+[2024-12-21 13:53:10] [main] DEBUG Hippodrome - Сщздание Hippodrome, лошадей 7
+[2024-12-21 13:53:10] [main] INFO  Main - Начало скачек. Количество участников: 7
+[2024-12-21 13:53:30] [main] INFO  Main - Конец скачек. Победитель: Lobster
+[2024-12-21 14:02:11] [main] DEBUG Horse - Создание Horse, имя Bucephalus, скорость 2.4
+[2024-12-21 14:02:11] [main] DEBUG Horse - Создание Horse, имя Ace of Spades, скорость 2.5
+[2024-12-21 14:02:11] [main] DEBUG Horse - Создание Horse, имя Zephyr, скорость 2.6
+[2024-12-21 14:02:11] [main] DEBUG Horse - Создание Horse, имя Blaze, скорость 2.7
+[2024-12-21 14:02:11] [main] DEBUG Horse - Создание Horse, имя Lobster, скорость 2.8
+[2024-12-21 14:02:11] [main] DEBUG Horse - Создание Horse, имя Pegasus, скорость 2.9
+[2024-12-21 14:02:11] [main] DEBUG Horse - Создание Horse, имя Cherry, скорость 3.0
+[2024-12-21 14:02:11] [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 7
+[2024-12-21 14:02:11] [main] INFO  Main - Начало скачек. Количество участников: 7
+[2024-12-21 14:02:32] [main] INFO  Main - Конец скачек. Победитель: Lobster
