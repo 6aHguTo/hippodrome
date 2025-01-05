@@ -28,6 +28,7 @@ public class Horse {
             throw new IllegalArgumentException("Distance cannot be negative.");
         }
 
+
         this.name = name;
         this.speed = speed;
         this.distance = distance;
