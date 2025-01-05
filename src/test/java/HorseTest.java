@@ -76,25 +76,29 @@ class HorseTest {
         }
     }
 
-    @Test
-    void moveDistance(){
+    @ParameterizedTest
+    @ValueSource(doubles = {0.4, 0.5, 0.8})
+    void moveDistance(double fakeValue) {
 
-        try(MockedStatic<Horse> mockedStatic = mockStatic(Horse.class)){
+        double min = 0.2;
+        double max = 0.9;
+        double distance = 10;
+        double speed = 5;
+        String name = "Moose";
 
-            double distance = 10;
-            double speed = 5;
-            double randomValue = 0.5;
+        Horse horse = new Horse(name, speed, distance);
 
-            when(Horse.getRandomDouble(0.2, 0.9)).thenReturn(randomValue);
+        double excepted = distance + speed * fakeValue;
 
-            Horse horse = new Horse("Moose", speed, distance);
+        try (MockedStatic<Horse> mockedStatic = mockStatic(Horse.class)) {
+
+            mockedStatic.when(() -> Horse.getRandomDouble(min, max)).thenReturn(fakeValue);
 
             horse.move();
 
-            double excepted = distance + speed * randomValue;
-
-            assertEquals(excepted, horse.getDistance());
         }
+
+        assertEquals(excepted, horse.getDistance());
     }
 
 }
