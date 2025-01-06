@@ -33,6 +33,7 @@ class HippodromeTest {
 
     @Test
     void getHorsesSubsequence(){
+
         List<Horse> horses = new ArrayList<>();
         for (int i = 1; i <= 30; i++){
             horses.add(new Horse("Moos " + i, 1 * i, 10 * i));
