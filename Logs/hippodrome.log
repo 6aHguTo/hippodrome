@@ -112,3 +112,60 @@
 [2025-01-06 12:46:15] [main] ERROR Horse - Speed is negative
 [2025-01-06 12:46:15] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 10.0
 [2025-01-06 12:46:15] [main] ERROR Horse - Name is null
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 1, скорость 1.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 2, скорость 2.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 3, скорость 3.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 4, скорость 4.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 5, скорость 5.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 6, скорость 6.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 7, скорость 7.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 8, скорость 8.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 9, скорость 9.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 10, скорость 10.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 11, скорость 11.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 12, скорость 12.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 13, скорость 13.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 14, скорость 14.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 15, скорость 15.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 16, скорость 16.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 17, скорость 17.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 18, скорость 18.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 19, скорость 19.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 20, скорость 20.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 21, скорость 21.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 22, скорость 22.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 23, скорость 23.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 24, скорость 24.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 25, скорость 25.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 26, скорость 26.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 27, скорость 27.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 28, скорость 28.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 29, скорость 29.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moos 30, скорость 30.0
+[2025-01-06 13:51:11] [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moose 1, скорость 10.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moose 2, скорость 10.0
+[2025-01-06 13:51:11] [main] DEBUG Horse - Создание Horse, имя Moose 3, скорость 10.0
+[2025-01-06 13:51:11] [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 3
+[2025-01-06 13:51:13] [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+[2025-01-06 13:51:14] [main] ERROR Hippodrome - Horses list is empty
+[2025-01-06 13:51:14] [main] ERROR Hippodrome - Horses list is null
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 10.0
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 10.0
+[2025-01-06 13:51:14] [main] ERROR Horse - Name is blank
+[2025-01-06 13:51:14] [main] ERROR Horse - Name is blank
+[2025-01-06 13:51:14] [main] ERROR Horse - Name is blank
+[2025-01-06 13:51:14] [main] ERROR Horse - Name is blank
+[2025-01-06 13:51:14] [main] ERROR Horse - Distance is negative
+[2025-01-06 13:51:14] [main] ERROR Horse - Distance is negative
+[2025-01-06 13:51:14] [main] ERROR Horse - Distance is negative
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 5.0
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 5.0
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 5.0
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 10.0
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 10.0
+[2025-01-06 13:51:14] [main] ERROR Horse - Speed is negative
+[2025-01-06 13:51:14] [main] ERROR Horse - Speed is negative
+[2025-01-06 13:51:14] [main] ERROR Horse - Speed is negative
+[2025-01-06 13:51:14] [main] DEBUG Horse - Создание Horse, имя Moose, скорость 10.0
+[2025-01-06 13:51:14] [main] ERROR Horse - Name is null
